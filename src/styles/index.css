@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@import './globals.css';
+@import './theme.css';
+@import './scrollbar.css';
+@import './custom.css';
