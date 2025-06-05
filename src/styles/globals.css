@@ -40,7 +40,6 @@
   --transition-medium: 300ms ease-in-out;
 }
 
-
 /* ==== BASE STYLES ==== */
 body {
   @apply bg-[var(--color-bg)] text-[var(--color-text)] transition-colors duration-300 font-[var(--font-arial)];
