@@ -1,4 +1,4 @@
-const isAgeAboveLimit = (dobString: string, ageLimit = 18) => {
+const isValidAge = (dobString: string, ageLimit = 18) => {
     const dob = new Date(dobString);
     const today = new Date();
 
@@ -15,4 +15,4 @@ const isAgeAboveLimit = (dobString: string, ageLimit = 18) => {
     return actualAge >= ageLimit;
 }
 
-export default isAgeAboveLimit;
+export default isValidAge;
