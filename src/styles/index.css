@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* No Need to explain, the name explains a log */
+@import url("./globals.css");
+@import url("./theme.css");
+@import url("./scrollbar.css");
+@import url("./custom.css");
