@@ -1,5 +1,5 @@
 const myMiddleWare = () => {
-    return "Will setup the middleware in future";
+    return;
 }
 
 export default myMiddleWare;
